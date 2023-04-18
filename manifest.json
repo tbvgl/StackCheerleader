@@ -1,0 +1,31 @@
+{
+    "manifest_version": 3,
+    "name": "StackCheerleader",
+    "version": "1.0",
+    "description": "Transform negative vote counts into positive ones on Stack Overflow!",
+    "icons": {
+        "48": "icon48.png",
+        "128": "icon128.png"
+    },
+    "action": {},
+    "background": {
+        "service_worker": "background.js"
+    },
+    "permissions": [
+        "scripting",
+        "declarativeContent",
+        "activeTab"
+    ],
+    "content_scripts": [{
+        "matches": [
+            "https://stackoverflow.com/*"
+        ],
+        "js": ["content.js"]
+    }],
+    "host_permissions": [
+        "https://stackoverflow.com/"
+    ],
+    "options_ui": {
+        "page": "options.html"
+    }
+}

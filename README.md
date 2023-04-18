@@ -1,5 +1,12 @@
 # StackCheerleader 👑🕺🎉
-<table border="0">
+<style>
+  table {
+    border-collapse: collapse;
+    border: none;
+  }
+</style>
+
+<table>
   <tr>   
     <td>
       <p>Do you get a lot of 👎 on Stack Overflow? Does it make you sad? Then, say hello to StackCheerleader, your new best friend! StackCheerleader is here to turn that frown upside down by magically transforming those pesky negative numbers into shiny, happy positive ones! 👍</p>
@@ -9,6 +16,7 @@
     <td><img src="assets/header.png" alt="Usage" style="min-width: 200px;"></td>
   </tr>
 </table>
+
 
 
 ## How to Install

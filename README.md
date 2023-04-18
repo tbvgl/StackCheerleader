@@ -1,14 +1,7 @@
 # StackCheerleader 👑🕺🎉
-<table border="0">
-  <tr>   
-    <td>
-      <p>Do you get a lot of 👎 on Stack Overflow? Does it make you sad? Then, say hello to StackCheerleader, your new best friend! StackCheerleader is here to turn that frown upside down by magically transforming those pesky negative numbers into shiny, happy positive ones! 👍</p>
-      <p>With StackCheerleader, every visit to Stack Overflow becomes a 🥳 of positivity! Revel in the joy of seeing every 👎 turn into an 👍, right before your eyes. It's like instant karma for your screen, just without any actual impact on your reputation!</p>
-      <p>Give your ego a gentle pat on the back, and let StackCheerleader be your cheerleader, one vote at a time. So, what are you waiting for? Install StackCheerleader now and start enjoying a downvote-free browsing experience on Stack Overflow – because ignorance is bliss, and we all deserve to feel like coding superstars! 🦸</p>
-    </td>
-    <td><img src="assets/header.png" alt="Usage" style="min-width: 200px;"></td>
-  </tr>
-</table>
+<img src="assets/header.png" alt="Usage" style="width:220px"><p></p>
+Do you get a lot of 👎 on Stack Overflow? Does it make you sad? Then, say hello to StackCheerleader, your new best friend! StackCheerleader is here to turn that frown upside down by magically transforming those pesky negative numbers into shiny, happy positive ones! 👍 With StackCheerleader, every visit to Stack Overflow becomes a 🥳 of positivity! Revel in the joy of seeing every 👎 turn into an 👍, right before your eyes. It's like instant karma for your screen, just without any actual impact on your reputation! Give your ego a gentle pat on the back, and let StackCheerleader be your cheerleader, one vote at a time. So, what are you waiting for? Install StackCheerleader now and start enjoying a downvote-free browsing experience on Stack Overflow – because ignorance is bliss, and we all deserve to feel like coding superstars! 🦸
+  
 
 
 ## How to Install

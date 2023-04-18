@@ -1,5 +1,5 @@
 # StackCheerleader 👑🕺🎉
-<table>
+<table border="0">
   <tr>   
     <td>
       <p>Do you get a lot of 👎 on Stack Overflow? Does it make you sad? Then, say hello to StackCheerleader, your new best friend! StackCheerleader is here to turn that frown upside down by magically transforming those pesky negative numbers into shiny, happy positive ones! 👍</p>
